@@ -7,8 +7,8 @@ Biomedical Engineer (MSc) | Computational Biology | Machine Learning
 ## About Me
 
 - Building my computational biology and bioinformatics skillset through coursework and hands-on projects
-- Background in biomedical engineering with a focus on genomics, spatial proteomics, and machine learning
-
+- Background in biomedical engineering with a focus on tissue engineering and stem cell based human model systems.
+  
 ## Tech Stack
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
