@@ -24,6 +24,3 @@ Biomedical Engineer (MSc) | Computational Biology | Machine Learning
 | [**MLCB**](https://github.com/nickmahtani/MLCB) | [**ML-CS433-EPFL**](https://github.com/nickmahtani/ML-CS433-EPFL) | [**applied-computational-genomics**](https://github.com/nickmahtani/applied-computational-genomics) |
 | MIT 6.8701 Machine Learning for Computational Biology | EPFL CS-433 Machine Learning | Aaron Quinlan's Applied Computational Genomics (Utah) |
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickmahtani/)
