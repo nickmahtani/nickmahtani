@@ -6,7 +6,7 @@ Biomedical Engineer (MSc) | Computational Biology | Machine Learning
 
 ## About Me
 
-- Building my computational biology and bioinformatics skillset through coursework and hands-on projects
+- Building my computational biology and machine learning skillsets through coursework and hands-on projects
 - Background in biomedical engineering with a focus on tissue engineering and stem cell based human model systems.
   
 ## Tech Stack
