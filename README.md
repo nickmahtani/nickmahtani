@@ -8,7 +8,8 @@ Biomedical Engineer (MSc) | Computational Biology | Machine Learning
 
 - Building my computational biology and machine learning skillsets through coursework and hands-on projects
 - Background in biomedical engineering with a focus on tissue engineering and stem cell based human model systems.
-  
+- [**View my CV**](https://nickmahtani.github.io)
+
 ## Tech Stack
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
